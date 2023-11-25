@@ -38,7 +38,8 @@ Here's why:
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Node][Node]][Node-url]
-* [![MongoDB][MongoDB]][MongoDB-url]  
+* [![MongoDB][Mongo_DB]][MongoDB-url]
+* [![Express][Express]][Express-url]  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,6 +81,8 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[Express]: https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white
+[Express-url]: https://expressjs.com/
 [Node]: https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=nodedotjs&logoColor=white
 [Node-url]: https://nodejs.org/en/  
 [ShadeCn]: https://img.shields.io/badge/ShadeCn-000000?style=for-the-badge
